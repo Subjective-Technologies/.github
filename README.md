@@ -233,7 +233,7 @@ I've been working on this **alone for 3+ years**:
 
 - **Discord:** [Discord Subjective Technologies](https://discord.gg/YCpMqDyZDJ)
 - **Email:** subjectivetechnologies@gmail.com
-- **Website:** [subjectivetechnologies.com/contact](https://subjectivetechnologies.com/contact)
+- **Website:** [Contact](https://subjectivetechnologies.com/contact?utm_source=github&utm_medium=profile&utm_campaign=readme) 
 - **Issues:** Open issues on specific repos for technical questions
 
 ---
