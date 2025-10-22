@@ -42,9 +42,9 @@ This isn't science fiction - it's grounded in rigorous research:
   - 0-Input interaction paradigms
 
 - **📚 Books:** Available in English, Spanish, and Chinese
-  - *Subjective Technologies: The First 0-Input Technology Design*
-  - *Harnessing Subjective AI to Replace Money* (newly copyrighted)
-  - Introducing Knowledge Hook Algebra - mathematical foundations
+  - [*Subjective Technologies: The First 0-Input Technology Design*](https://subjectivetechnologies.com/downloads/st_nocovers_hardcover_1.0.pdf)
+  - [*Subjective Thermo-Currency: Harnessing Subjective AI and SmartGlasses to Replace Money*](https://subjectivetechnologies.com/downloads/stc.pdf)
+  - [Introducing Knowledge Hook Algebra - mathematical foundations](https://subjectivetechnologies.com/downloads/stc.pdf)
 
 - **🌐 Website:** [Website](https://subjectivetechnologies.com/?utm_source=github&utm_medium=profile&utm_campaign=readme) 
   - Live VirtualGlass demo
