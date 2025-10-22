@@ -84,6 +84,28 @@ The paradigm shift from tools you use to capabilities you have:
 
 ---
 
+
+---
+
+## 📚 Free Books
+
+<div align="center">
+
+[![Subjective Technologies Book Cover](https://cdn.subjectivetechnologies.com/images/brainboost_research_subjective_book_cover.png)](https://subjectivetechnologies.com/downloads/st_nocovers_hardcover_1.0.pdf)
+<br>
+*📖 [Download “Subjective Technologies: The First 0-Input Technology Design”](https://subjectivetechnologies.com/downloads/st_nocovers_hardcover_1.0.pdf)*
+
+<br><br>
+
+[![Subjective Thermo-Currency Book Cover](https://cdn.subjectivetechnologies.com/images/stc_cover_hard_365.22x264.6.png)](https://subjectivetechnologies.com/downloads/stc.pdf)
+<br>
+*📗 [Download “Subjective Thermo-Currency: Harnessing Subjective AI to Replace Money”](https://subjectivetechnologies.com/downloads/stc.pdf)*
+
+</div>
+
+
+
+
 ## 🛠️ What's Here
 
 ### Core Systems
