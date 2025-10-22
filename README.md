@@ -442,13 +442,3 @@ This is solo work, but built on the shoulders of giants:
 ```
 
 ---
-
-## How to Add This:
-
-1. **Create the `.github` repository** (use the screenshot settings - Public, with README)
-
-2. **After creation, create folder structure:**
-```
-   .github/
-     profile/
-       README.md  ← Paste the content above here
