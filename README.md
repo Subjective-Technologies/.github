@@ -39,7 +39,7 @@ This isn't science fiction - it's grounded in rigorous research:
   - *Harnessing Subjective AI to Replace Money* (newly copyrighted)
   - Introducing Knowledge Hook Algebra - mathematical foundations
 
-- **🌐 Website:** [subjectivetechnologies.com](https://subjectivetechnologies.com)
+- **🌐 Website:** [Website](https://subjectivetechnologies.com/?utm_source=github&utm_medium=profile&utm_campaign=readme) 
   - Live VirtualGlass demo
   - Interactive object detection
   - Full research documentation
