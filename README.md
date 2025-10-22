@@ -1,6 +1,12 @@
 # Subjective Technologies
 ### The First 0-Input Technology Design
 
+
+
+Subjective Thermo-Currency
+"Using Subjective AI and SmartGlasses to replace money"
+
+
 > **"The goal isn't better tools. The goal is humans who don't need tools."**
 
 ---
