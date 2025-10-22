@@ -3,10 +3,6 @@
 
 
 
-Subjective Thermo-Currency
-"Using Subjective AI and SmartGlasses to replace money"
-
-
 > **"The goal isn't better tools. The goal is humans who don't need tools."**
 
 ---
@@ -26,6 +22,11 @@ Through augmented reality, we're creating capabilities that feel native:
 **This is 0-Input Technology: Software constructs that augment humans beyond the need for traditional tools.**
 
 ---
+
+** The most amazing **
+Subjective Thermo-Currency
+"Using Subjective AI and SmartGlasses to replace money by Joules energy"
+
 
 ## 🔬 Research Foundation
 
