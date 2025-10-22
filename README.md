@@ -432,7 +432,7 @@ This is solo work, but built on the shoulders of giants:
 
 *The First 0-Input Technology Design*
 
-[Website](https://subjectivetechnologies.com) • [Research](https://subjectivetechnologies.com/scientific-research) • [Patent](https://patents.google.com/patent/US20220358283A1/en) • [Contact](mailto:your-email)
+[Website](https://subjectivetechnologies.com) • [Research](https://subjectivetechnologies.com/scientific-research) • [Patent](https://patents.google.com/patent/US20220358283A1/en) • [Contact](mailto:subjectivetechnologies@gmail.com)
 
 ---
 
