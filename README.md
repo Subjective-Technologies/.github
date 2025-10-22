@@ -377,7 +377,6 @@ This is solo work, but built on the shoulders of giants:
 - **Research:** [subjectivetechnologies.com/scientific-research](https://subjectivetechnologies.com/scientific-research)
 - **Email:** subjectivetechnologies@gmail.com
 - **GitHub:** You're here! Explore repos, open issues, start discussions
-- **Twitter:** [If you create one]
 - **Discord:** [[Subjective Technologies Discord]](https://discord.gg/YCpMqDyZDJ)
 
 ---
