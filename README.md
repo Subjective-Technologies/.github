@@ -184,7 +184,7 @@ The Subjective system understands YOUR context by connecting to platforms you us
 ## 🎮 Try It Yourself
 
 ### Live Demo
-Visit [subjectivetechnologies.com](https://subjectivetechnologies.com) and click the **VirtualGlass** button to experience 0-Input technology:
+Visit [Website](https://subjectivetechnologies.com/?utm_source=github&utm_medium=profile&utm_campaign=readme) and click the **VirtualGlass** button to experience 0-Input technology:
 - Real-time object detection through your webcam
 - See how the system observes and understands context
 - Experience what will become Virtual Body Parts detection
