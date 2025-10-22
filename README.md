@@ -231,8 +231,8 @@ I've been working on this **alone for 3+ years**:
 
 ### How to Connect
 
-- **GitHub Discussions:** [Enable discussions on repos of interest]
-- **Email:** [Your email]
+- **Discord:** [Discord Subjective Technologies](https://discord.gg/YCpMqDyZDJ)
+- **Email:** subjectivetechnologies@gmail.com
 - **Website:** [subjectivetechnologies.com/contact](https://subjectivetechnologies.com/contact)
 - **Issues:** Open issues on specific repos for technical questions
 
